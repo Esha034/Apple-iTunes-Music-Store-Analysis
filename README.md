@@ -1,4 +1,4 @@
-# 🎧 Apple iTunes Music Store Analysis (SQL Project)
+# 🎧 Apple iTunes Music Store Analysis 
 
 ##  Project Overview
 This project performs an end-to-end SQL analysis of the Apple iTunes (Chinook) music store database.  
@@ -96,8 +96,6 @@ A normalized relational schema was created with proper:
     ├── data/ # Raw CSV datasets
     ├── sql/
     │ └── itunes_analysis.sql
-    ├── output/
-    │ └── query_results/
     └── README.md
 
 
