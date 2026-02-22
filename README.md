@@ -1,6 +1,6 @@
 # 🎧 Apple iTunes Music Store Analysis (SQL Project)
 
-## 📌 Project Overview
+##  Project Overview
 This project performs an end-to-end SQL analysis of the Apple iTunes (Chinook) music store database.  
 The goal is to extract actionable business insights about customer behavior, sales performance, music trends, and operational efficiency using pure SQL.
 
@@ -77,11 +77,11 @@ A normalized relational schema was created with proper:
 
 ##  Sample Insights
 
-- A small group of customers contributes a large portion of total revenue (Pareto effect).
-- Certain genres have high inventory but low sales, indicating content inefficiency.
-- Specific regions show high user base but lower monetization potential.
-- A few artists dominate total revenue generation.
-- Lower-priced tracks show higher purchase frequency.
+-1. A small group of customers contributes a large portion of total revenue (Pareto effect).
+-2. Certain genres have high inventory but low sales, indicating content inefficiency.
+-3. Specific regions show high user base but lower monetization potential.
+-4. A few artists dominate total revenue generation.
+-5. Lower-priced tracks show higher purchase frequency.
 
 ---
 
@@ -129,5 +129,7 @@ It showcases the ability to transform raw relational data into meaningful insigh
 ## Author
 
 **Eshani Banik**  
+
 CSE-AIML
+
 Aspiring Data Analyst 
