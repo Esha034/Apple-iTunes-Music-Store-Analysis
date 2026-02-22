@@ -77,15 +77,15 @@ A normalized relational schema was created with proper:
 
 ##  Sample Insights
 
--1. A small group of customers contributes a large portion of total revenue (Pareto effect).
+1. A small group of customers contributes a large portion of total revenue (Pareto effect).
 
--2. Certain genres have high inventory but low sales, indicating content inefficiency.
+2. Certain genres have high inventory but low sales, indicating content inefficiency.
 
--3. Specific regions show high user base but lower monetization potential.
+3. Specific regions show high user base but lower monetization potential.
 
--4. A few artists dominate total revenue generation.
+4. A few artists dominate total revenue generation.
 
--5. Lower-priced tracks show higher purchase frequency.
+5. Lower-priced tracks show higher purchase frequency.
 
 ---
 
