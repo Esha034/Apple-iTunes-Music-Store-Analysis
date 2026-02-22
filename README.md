@@ -14,7 +14,6 @@ This project was completed as part of an industry-style analytics task focusing 
 - Identify top-performing artists, tracks, and genres
 - Analyze revenue trends across time and regions
 - Evaluate employee sales performance
-- Discover underutilized content and underserved markets
 - Perform operational optimization using advanced SQL
 
 ---
